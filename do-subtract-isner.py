@@ -1,6 +1,6 @@
 #! /usr/bin/python
 import argparse, os, sys
-sys.path.insert(0,'/home/kramundson/test-env/khmerEnv/lib/python2.7/site-packages')
+sys.path.insert(0,'./khmerEnv/lib/python2.7/site-packages')
 import khmer, khmer.utils
 import screed
 
