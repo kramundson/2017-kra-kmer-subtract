@@ -10,7 +10,7 @@ python2.7 -m virtualenv khmerEnv
 source khmerEnv/bin/activate
 
 # 2. Install latest khmer screed
-pip install -U setuptools
+pip install -U pip setuptools
 pip install https://github.com/dib-lab/khmer/archive/master.zip
 pip install https://github.com/dib-lab/screed/archive/master.zip
 
