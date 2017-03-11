@@ -22,6 +22,6 @@ do
 	perl AtoQ.pl $i
 done
 
-python do-subtract-isner.py a.reads.fastq b.reads.fastq
+python do-subtract-isner.py a.reads.fastq b.reads.fastq out.test
 
 ###EXAMPLE OUTPUT###
