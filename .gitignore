@@ -1,0 +1,10 @@
+a.reads.fastq
+a.reads.fastq.subset
+ab.reads.fa
+ab.reads.fastq
+ab.reads.fastq.subset
+b.reads.fastq
+b.reads.fastq.subset
+c.reads.fastq
+c.reads.fastq.subset
+out_table_test
